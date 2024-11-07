@@ -9,6 +9,7 @@ public class ContrataeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ContrataeApplication.class, args);
 		System.out.println("ola");
+		System.out.println("teste2");
 	}
 
 }
