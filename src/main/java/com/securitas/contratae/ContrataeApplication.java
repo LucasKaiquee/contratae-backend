@@ -10,6 +10,7 @@ public class ContrataeApplication {
 		SpringApplication.run(ContrataeApplication.class, args);
 		System.out.println("ola");
 		System.out.println("teste2");
+		System.out.println("teste3");
 	}
 
 }
