@@ -1,9 +1,8 @@
 package com.securitas.contratae.Models;
 
+import java.util.UUID;
 
 import lombok.Data;
-
-import java.util.UUID;
 
 @Data
 public class Candidate {

@@ -1,5 +1,13 @@
 package com.securitas.contratae.Models;
 
-public class Recruiter {
+import java.util.UUID;
 
+import lombok.Data;
+
+@Data
+public class Recruiter {
+    private String name;
+    private String email;
+    private String autorization;
+    private UUID id;
 }
